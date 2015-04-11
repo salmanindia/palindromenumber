@@ -17,6 +17,7 @@ else
 echo $p.” is not palindrome number”;
 }
 ?>
+
 <form>
 enter your number<input type=”text” name=”n”/>
 <input type=”submit” value=”Chk Result”/>
